@@ -1,0 +1,141 @@
+# Created by Octave 4.4.1, Wed Sep 25 12:00:41 2019 +06 <user@parrot>
+# name: C2
+# type: scalar
+1.1599999999999999e-06
+
+
+# name: I
+# type: complex scalar
+(0.012903770548363926,0.0010052634567837499)
+
+
+# name: I2
+# type: complex scalar
+(0.011619784033380428,0.012761070615393675)
+
+
+# name: I3
+# type: complex scalar
+(0.0012839865149835003,-0.011755807158609926)
+
+
+# name: L1
+# type: scalar
+0.01
+
+
+# name: L3
+# type: scalar
+0.029999999999999999
+
+
+# name: R1
+# type: scalar
+132.09999999999999
+
+
+# name: R2
+# type: scalar
+51
+
+
+# name: R3
+# type: scalar
+99.099999999999994
+
+
+# name: Rl1
+# type: scalar
+1.1000000000000001
+
+
+# name: Rl3
+# type: scalar
+1.8
+
+
+# name: S
+# type: complex scalar
+(0.051615082193455702,0.0040210538271349995)
+
+
+# name: U
+# type: scalar
+4
+
+
+# name: Uc2
+# type: complex scalar
+(1.7517393223415434,-1.5950724842659274)
+
+
+# name: Ul1
+# type: complex scalar
+(-0.048936397482819173,0.81146258023971674)
+
+
+# name: Ul3
+# type: complex scalar
+(2.2171052444090806,0.22074260653739358)
+
+
+# name: Ur1
+# type: complex scalar
+(1.7045880894388745,0.13279530264113334)
+
+
+# name: Ur2
+# type: complex scalar
+(0.59260898570240184,0.65081460138507741)
+
+
+# name: Ur3
+# type: complex scalar
+(0.12724306363486487,-1.1650004894182435)
+
+
+# name: Xc2
+# type: scalar
+137.27212826707665
+
+
+# name: Xl1
+# type: scalar
+62.800000000000004
+
+
+# name: Xl3
+# type: scalar
+188.40000000000001
+
+
+# name: Z
+# type: complex scalar
+(308.11691116501919,-24.003733641292207)
+
+
+# name: Z2
+# type: complex scalar
+(51,-137.27212826707665)
+
+
+# name: Z23
+# type: complex scalar
+(174.9169111650192,-86.803733641292212)
+
+
+# name: Z3
+# type: complex scalar
+(100.89999999999999,188.40000000000001)
+
+
+# name: ans
+# type: scalar
+0.05177147461409521
+
+
+# name: omeg
+# type: scalar
+6280
+
+

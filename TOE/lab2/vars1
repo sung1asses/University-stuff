@@ -1,0 +1,76 @@
+# Created by Octave 4.4.1, Wed Sep 25 22:29:48 2019 +06 <user@parrot>
+# name: C1
+# type: scalar
+1.1999999999999999e-06
+
+
+# name: I
+# type: complex scalar
+(0.035856493472119284,-0.037756826176534267)
+
+
+# name: L1
+# type: scalar
+0.029999999999999999
+
+
+# name: R1
+# type: scalar
+51
+
+
+# name: Rl1
+# type: scalar
+1.8999999999999999
+
+
+# name: U
+# type: scalar
+4
+
+
+# name: Uc1
+# type: complex scalar
+(-5.0101945563341657,-4.7580272654086109)
+
+
+# name: Ul1
+# type: complex scalar
+(7.1815133892560823,6.6836254004118585)
+
+
+# name: Ur1
+# type: complex scalar
+(1.8286811670780836,-1.9255981350032476)
+
+
+# name: Xc1
+# type: complex scalar
+(0,-132.69639065817412)
+
+
+# name: Xl1
+# type: complex scalar
+(1.8999999999999999,188.40000000000001)
+
+
+# name: Xr1
+# type: scalar
+51
+
+
+# name: Z
+# type: complex scalar
+(52.899999999999999,55.703609341825882)
+
+
+# name: ans
+# type: scalar
+6.9094770388714837
+
+
+# name: omega
+# type: scalar
+6280
+
+
