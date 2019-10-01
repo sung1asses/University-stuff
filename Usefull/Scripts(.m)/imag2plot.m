@@ -12,7 +12,9 @@ for m = 1:length(leg)
 end
 %legend('boxoff');
 grid on
+grid minor
 xlabel('real')
 ylabel('imag')
+
 hold off
 end
